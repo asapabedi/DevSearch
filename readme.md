@@ -1,1 +1,2 @@
 # DevSearch
+Web Application Based laravel 5.2 framework, safe for json web token, for video data management background, and provides an interface to the app api calls. Video tutorial module, grammar manual module, the user module, the community module.
