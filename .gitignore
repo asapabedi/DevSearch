@@ -1,0 +1,7 @@
+/vendor
+/node_modules
+.env
+.idea
+/public/uploads
+/public/temp
+/app/Http/ParseVideo.php
